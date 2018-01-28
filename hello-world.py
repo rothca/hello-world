@@ -1,7 +1,7 @@
 # hello world
 
-x = "hello world"
+x = "hello world!"
 print (x)
 
-y= "hello again"
+y= "hello again!"
 print (y)
